@@ -1,5 +1,4 @@
 FROM ubuntu:22.04
-#FROM python:3.12.4-slim
 
 ARG DEBIAN_FRONTEND=noninteractive
 
